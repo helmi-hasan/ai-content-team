@@ -9,17 +9,15 @@ YOUTUBE_CHANNEL_URL=https://www.youtube.com/@helmihasan
 
 ## Notion Database IDs
 
-Fill in after creating Notion pages (or paste existing IDs if they already exist).
-
 ```
-NOTION_DAILY_OUTLIERS_DB=PASTE_ID_HERE
-NOTION_CONTENT_CALENDAR_DB=PASTE_ID_HERE
-NOTION_COMPETITOR_TRACKER_DB=PASTE_ID_HERE
-NOTION_BRAND_VOICE_PAGE=PASTE_ID_HERE
+NOTION_DAILY_OUTLIERS_DB=61aee75d-22b7-4572-91f6-a850f4ae7933
+NOTION_CONTENT_CALENDAR_DB=bb890570-c76f-4a06-8a5c-59bad42c8a87
+NOTION_COMPETITOR_TRACKER_DB=60e2a3e7-bd1c-468a-b493-5f1eebbdf025
+NOTION_BRAND_VOICE_PAGE=3676a1eb-2418-81c6-a59b-f539509db8d7
+NOTION_HUB_PAGE=3676a1eb-2418-8107-bb8e-e336526ca08b
 ```
 
-To get a Notion database ID: open the database in Notion → copy URL → the ID is the
-32-character string before the `?` (format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
+Notion hub: https://www.notion.so/3676a1eb24188107bb8ee336526ca08b
 
 ## Pipeline Schedule
 
