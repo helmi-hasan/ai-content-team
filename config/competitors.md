@@ -7,7 +7,7 @@ Update this list at any time — changes take effect on the next run.
 
 | Channel | Handle | Notes |
 |---------|--------|-------|
-| Think Media | @ThinkMedia | YouTube education, business angle |
+| Think Media | @ThinkMediaTV | YouTube education, business angle — 3.46M subs |
 | Sunny Lenarduzzi | @SunnyLenarduzzi | YouTube strategy for entrepreneurs |
 | Jade Beason | @JadeBeason | Content strategy for service businesses |
 | Katie Steckly | @katieksteckly | YouTube growth for creators + coaches |

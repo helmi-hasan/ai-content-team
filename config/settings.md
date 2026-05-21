@@ -4,7 +4,9 @@
 
 ```
 YOUTUBE_CHANNEL_HANDLE=@helmihasan
+YOUTUBE_CHANNEL_ID=UCaqGek-M9ff3viZns31oYew
 YOUTUBE_CHANNEL_URL=https://www.youtube.com/@helmihasan
+# NOTE: VidIQ does not resolve @helmihasan — always use YOUTUBE_CHANNEL_ID
 ```
 
 ## Notion Database IDs
