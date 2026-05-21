@@ -1,0 +1,20 @@
+# Environment
+.env
+*.env
+.env.local
+
+# Logs (generated daily, no need to version)
+logs/
+
+# Generated outputs (rebuilt daily by pipeline)
+outputs/scripts/
+outputs/thumbnails/
+outputs/dashboard/
+
+# macOS
+.DS_Store
+
+# Credentials
+credentials.json
+*.pem
+*.key
