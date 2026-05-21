@@ -149,10 +149,51 @@ File: `outputs/thumbnails/YYYY-MM-DD-[slug].md`
 Start with Concept [X] because [reason].
 ```
 
+**Append Thumbnail Brief to the Notion Script Page:**
+
+Find today's script page in Notion (created by Script Writer — search for today's date in the hub).
+Append this section to the bottom of that page:
+
+```
+---
+
+# THUMBNAIL BRIEF
+
+**Reference outlier:** [channel] — [video title]
+**Reference thumbnail:** [layout / emotion / text observed]
+
+---
+
+## Concept A — [one-line description]
+[full concept description]
+
+**Canva prompt:**
+[full Canva prompt, ready to paste]
+
+---
+
+## Concept B — [one-line description]
+[full concept description]
+
+**Canva prompt:**
+[full Canva prompt, ready to paste]
+
+---
+
+## Concept C — [one-line description]
+[full concept description]
+
+**Canva prompt:**
+[full Canva prompt, ready to paste]
+
+---
+
+**Recommendation:** Start with Concept [X] — [reason in one sentence]
+```
+
 **Update Notion Content Calendar:**
 Find today's row and update:
 - Thumbnail Status: Concepts Ready
-- Thumbnail File: path to outputs/thumbnails/ file
 
 ---
 

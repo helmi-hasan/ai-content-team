@@ -160,6 +160,65 @@ File: `outputs/scripts/YYYY-MM-DD-[slug].md`
 5. [title]
 ```
 
+**Create Notion Script Page:**
+
+Create a new page inside the AI Content Team hub (parent: `3676a1eb-2418-8107-bb8e-e336526ca08b`) with:
+
+Title: `📝 [Selected Title] — [YYYY-MM-DD]`
+
+Content (use this exact structure in Notion Markdown):
+
+```
+**Source outlier:** [channel] — [outlier title] — [score]x
+**Hook type:** [type]
+**Estimated runtime:** ~X minutes
+**Title options:** [list all 5]
+
+---
+
+# HOOK
+
+[Full selected hook — every word, ready to read aloud]
+
+---
+
+# BODY
+
+## [Section 1 heading]
+
+[Section 1 full text]
+
+*[B-roll cue in italics]*
+
+---
+
+## [Section 2 heading]
+
+[Section 2 full text]
+
+*[B-roll cue in italics]*
+
+---
+
+## [Section 3 heading]
+
+[Section 3 full text]
+
+*[B-roll cue in italics]*
+
+---
+
+# CTA
+
+[Full CTA text]
+
+Next video recommendation: [topic]
+```
+
+Format it for reading aloud — short paragraphs, clear section breaks. This page IS the teleprompter.
+
+After creating the page, note its Notion URL.
+
 **Update Notion Content Calendar:**
 Create a new row with:
 - Date: today
@@ -168,7 +227,7 @@ Create a new row with:
 - Script Status: Ready
 - Thumbnail Status: Pending
 - Publish Status: Not started
-- Script File: link to outputs/scripts/ file path
+- Script File: [Notion script page URL from above]
 - Source Outlier: [channel] — [video title]
 
 ---
@@ -209,8 +268,9 @@ TITLE OPTIONS:
 - [ ] Best hook selected with rationale
 - [ ] Full script written (1,000–1,800 words)
 - [ ] 5 title options written
-- [ ] Script saved to outputs/scripts/
-- [ ] Notion content calendar updated
+- [ ] Script saved to outputs/scripts/ (local runs only)
+- [ ] Notion script page created (full script + teleprompter format)
+- [ ] Notion content calendar updated with link to script page
 
 ---
 
